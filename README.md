@@ -20,6 +20,6 @@
 ## ⚙ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Richard_Oliveira&show_icons=true&theme=radical"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Richard&show_icons=true&theme=radical"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard&layout=compact)](https://github.com/riholiver/github-readme-stats/>
 </p>
