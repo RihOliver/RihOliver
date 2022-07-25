@@ -23,3 +23,7 @@
 <img width="530em" alt="Richard GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Richard&show_icons=true&theme=tokyonight" />
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard&layout=compact&theme=tokyonight">
 </p>
+
+## ⚙ &nbsp;Social Links
+
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
