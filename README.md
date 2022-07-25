@@ -20,6 +20,6 @@
 ## ⚙ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Richard&show_icons=true&theme=radical"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard&layout=compact&theme=radical">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Richard&show_icons=true&theme=tokyonight"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard&layout=compact&theme=tokyonight">
 </p>
