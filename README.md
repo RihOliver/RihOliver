@@ -6,7 +6,7 @@
 
 - I started my career in the [Arquitetool project](arquitetool.com.br)
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Technologies I work
 
@@ -19,7 +19,7 @@
 <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-<br><br>
+<br>
 
 ## ⚙ &nbsp;GitHub Analytics
 
@@ -28,7 +28,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihOliver&layout=compact&theme=tokyonight">
 </p>
 
-<br><br>
+<br>
 
 ## ⚙ &nbsp;Social Links
 
