@@ -5,7 +5,6 @@
 - I'm currently a freelancer
 
 - I started my career in the [Arquitetool project](arquitetool.com.br)
-
 <br><br>
 
 ## 🛠 &nbsp;Technologies I work
