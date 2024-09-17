@@ -22,7 +22,6 @@
 <img style="margin-top: 4px;" align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 </div>
-
 <br>
 
 ## ⚙ &nbsp;GitHub Analytics
