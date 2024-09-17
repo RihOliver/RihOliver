@@ -1,8 +1,6 @@
 <h1>Hello ! I'm Richard Oliveira <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" width="30px"></h1>
 
-- 💻 Fullstack Developer junior
-
-- I'm currently a freelancer
+- 💻 Fullstack web developer
 
 - I started my career in the [Arquitetool project](arquitetool.com.br)
 
