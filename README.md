@@ -25,8 +25,8 @@
 ## ⚙ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" alt="Richard GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RihOliver&cache=cachebreaker&token=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&show_icons=true&theme=tokyonight&t=$(date +%s)" />
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihOliver&cache=cachebreaker&token=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&layout=compact&theme=tokyonight&t=$(date +%s)">
+<img width="530em" alt="Richard GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RihOliver&cache=cachebreaker&token=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&show_icons=true&theme=tokyonight" />
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihOliver&cache=cachebreaker&token=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&layout=compact&theme=tokyonight">
 </p>
 
 <br>
