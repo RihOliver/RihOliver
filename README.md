@@ -40,7 +40,7 @@
 
 ## ⌨️ Weekly Coding Stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seu-username&theme=tokyonight)](https://wakatime.com/@seu-username)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RihOliver&theme=tokyonight)](https://wakatime.com/@RihOliver)
 
 
 <br>
