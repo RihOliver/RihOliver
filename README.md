@@ -26,7 +26,7 @@
 
 <p align="left">
 <img width="530em" alt="Richard GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RihOliver&cache=cachebreaker&token=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&show_icons=true&theme=tokyonight" />
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihOliver&cache=cachebreaker&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&layout=compact&theme=tokyonight">
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihOliver&cache=cachebreaker&token=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&layout=compact&theme=tokyonight">
 </p>
 
 <br>
