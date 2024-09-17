@@ -28,8 +28,8 @@
 ## ⚙ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" alt="Richard GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RihOliver&show_icons=true&theme=tokyonight" />
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihOliver&layout=compact&theme=tokyonight">
+<img width="530em" alt="Richard GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RihOliver&show_icons=true&theme=tokyonight&cache=cachebreaker" />
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihOliver&layout=compact&theme=tokyonight&cache=cachebreaker">
 </p>
 
 <br>
