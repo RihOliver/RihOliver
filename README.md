@@ -38,6 +38,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RihOliver&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
+## ⌨️ Weekly Coding Stats
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seu-username&theme=tokyonight)](https://wakatime.com/@seu-username)
+
 
 <br>
 
