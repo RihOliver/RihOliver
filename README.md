@@ -32,6 +32,13 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihOliver&layout=compact&theme=tokyonight">
 </p>
 
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RihOliver&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+
 <br>
 
 ## 🙍‍♂️ &nbsp;Social Links 
